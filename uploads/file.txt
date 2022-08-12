@@ -1,0 +1,1 @@
+mongodb+srv://vanillas:Ime199906@cluster0.ryhyq4q.mongodb.net/?retryWrites=true&w=majority

@@ -1,0 +1,100 @@
+/* eslint-disable indent */
+export default {
+    products: [
+        {
+            _id: '111111111111111111111111',
+            name: 'Womens Top And Trouser',
+            category: 'Womens',
+            image: '/images/lady1 top n t.png',
+            price: 90,
+            brand: 'Maestitches',
+            rating: 2.5,
+            numReviews: 17,
+            countInStock: 28,
+        },
+
+        {
+            _id: '222222222222222222222222',
+            name: 'Mens Native Wear',
+            category: 'Native',
+            image: '/images/mans u n d.png',
+            price: 70,
+            brand: 'Maestitches',
+            rating: 1.5,
+            numReviews: 15,
+            countInStock: 16,
+        },
+
+        {
+            _id: '3',
+            name: 'Short  Womens Dress',
+            category: 'Dress',
+            image: '/images/lady1 sdr.jpg',
+            price: 86,
+            brand: 'Maestitches',
+            rating: 1.5,
+            numReviews: 16,
+            countInStock: 18,
+        },
+
+        {
+            _id: '4',
+            name: 'Short  Womens Dress',
+            category: 'Dress',
+            image: '/images/lady1 sdw.png',
+            price: 89,
+            brand: 'Maestitches',
+            rating: 1.5,
+            numReviews: 19,
+            countInStock: 10,
+        },
+
+        {
+            _id: '5',
+            name: 'Mens Shirt',
+            category: 'Shirt',
+            image: '/images/mans t0p1.jpg',
+            price: 50,
+            brand: 'Maestitches',
+            rating: 1.5,
+            numReviews: 13,
+            countInStock: 17,
+        },
+
+        {
+            _id: '6',
+            name: ' Black Short Dress',
+            category: 'Dress',
+            image: '/images/lady1 sdb.png',
+            price: 90,
+            brand: 'Maestitches',
+            rating: 1.5,
+            numReviews: 11,
+            countInStock: 18,
+        },
+
+        {
+            _id: '7',
+            name: ' Mans Native Top',
+            category: 'Shirt',
+            image: '/images/mans top2.png',
+            price: 90,
+            brand: 'Maestitches',
+            rating: 2.3,
+            numReviews: 11,
+            countInStock: 18,
+        },
+
+        {
+            _id: '8',
+            name: ' Black Top and Short',
+            category: 'Ladies',
+            image: '/images/product sn.png',
+            price: 90,
+            brand: 'Maestitches',
+            rating: 1.8,
+            numReviews: 11,
+            countInStock: 18,
+        },
+    ],
+};
